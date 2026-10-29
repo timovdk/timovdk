@@ -1,6 +1,6 @@
 ## Hi 👋! I'm Timo van der Kuil (he/him)
 
-I'm a PhD Candidate at Utrecht University. Visit my page at [🚀 Timo van der Kuil](https://timovdk.github.io/)
+I'm a PhD Candidate at Utrecht University. Visit my page at [🚀 Timo van der Kuil](https://timovdk.nl)
 
 #### Contact:
 📫  Email me at <t.h.vanderkuil@uu.nl>
